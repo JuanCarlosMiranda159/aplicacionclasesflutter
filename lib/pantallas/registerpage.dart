@@ -67,7 +67,7 @@ class _RegistroState extends State<Registro> {
                   controller: password1Controller,
                 ),
                 MyTextField(
-                  hint: "repet password",
+                  hint: "repettt password",
                   obscureText: true,
                   controller: password2Controller,
                 ),
