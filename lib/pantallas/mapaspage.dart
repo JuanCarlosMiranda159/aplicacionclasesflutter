@@ -8,7 +8,7 @@ class Mapaspage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Color.fromARGB(255, 237, 240, 236),
       appBar: AppBar(title: Text("maps"), backgroundColor: Colors.blue),
-      body: Center(child: Text("maps", style: TextStyle(fontSize: 30))),
+      body: Center(child: Text("mapsss", style: TextStyle(fontSize: 30))),
     );
   }
 }
